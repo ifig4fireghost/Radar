@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"syscall"
 
-	"Radar/app"
+	"github.com/ifig4fireghost/Radar/app"
 
 	"github.com/ifig4fireghost/uds/udss"
 	"github.com/ifig4fireghost/uds/utils"
